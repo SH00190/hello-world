@@ -1,1 +1,1 @@
-print ("This is the first lab")
+print ("This is the 1st lab")
